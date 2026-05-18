@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WordCloud.Console/WordCloud.Console.csproj" />
+  <Project Path="WordCloud.Core/WordCloud.Core.csproj" />
+  <Project Path="WordCloud.Tests/WordCloud.Tests.csproj" />
+</Solution>
